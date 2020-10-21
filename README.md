@@ -1,8 +1,9 @@
 ## *Victor Swaroop* 
 ***@GVictorsd***
+
 ![profpic](profilepic.png)
 
-Hay, folks! This is Victor Swaroop, an undergraduate in Electronics and Communication Engineering with a bit of passion in Computer Science and Computer Architecture...🙂
+Hey, folks! This is Victor Swaroop. I am an undergraduate in Electronics and Communication Engineering with a bit of passion in Computer Science and Computer Architecture...🙂😊
 
 ```
 programming_languages_known = ['C',
