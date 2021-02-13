@@ -7,9 +7,11 @@ Hey, folks! This is Victor Swaroop. I am an undergraduate in Electronics and Com
 
 ```
 programming_languages_known = ['C',
-                               'Python',
-                               'MATLAB',                             
-                               'Verilog HDL']
+                               'C++',
+                               'Python3',
+                               'BASH',
+                               'Verilog HDL',
+                               'MATLAB']
 print('...and expanding;)')
 ```
 
