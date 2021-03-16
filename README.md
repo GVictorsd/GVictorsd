@@ -1,4 +1,4 @@
-## *Victor Swaroop* 
+## *Victor Swaroop*
 ***@GVictorsd***
 
 ![profpic](profilepic.png)
@@ -16,6 +16,8 @@ print('...and expanding;)')
 ```
 
 ### Find me on:
+
+### [gvictorsd.github.io](https://gvictorsd.github.io)
 
 <img align="left" width="20" height="20" src="gmail.png">
 
