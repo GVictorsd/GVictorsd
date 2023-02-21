@@ -5,15 +5,6 @@
 
 Hey, folks! This is Victor Swaroop. I am an undergraduate in Electronics and Communication Engineering with a bit of passion in Computer Science and Computer Architecture...🙂😊
 
-```
-programming_languages_known = ['C',
-                               'C++',
-                               'Python3',
-                               'BASH',
-                               'Verilog HDL',
-                               'MATLAB']
-print('...and expanding;)')
-```
 
 ### Find me on:
 
